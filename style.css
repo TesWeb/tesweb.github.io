@@ -1,0 +1,25 @@
+.jumbotron{
+	padding-top: 70px;
+	background-color: #666666;
+}
+
+#gallery{
+	background-color: #666666;
+}
+
+footer a{
+	text-decoration: none;
+	color: white;
+}
+
+footer{
+	padding-bottom: 10px;
+}
+
+section{
+	padding-top: 70px;
+}
+
+table{
+	margin: 30px;
+}
