@@ -23,3 +23,11 @@ section{
 table{
 	margin: 30px;
 }
+
+body{
+	font-family: 'Poppins', sans-serif;
+}
+
+.jumbotron h1{
+	font-weight: bold;
+}
